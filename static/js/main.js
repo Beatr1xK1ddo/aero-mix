@@ -1,4 +1,4 @@
-
+alert(1)
 $( document ).ready(function() {
     let y = $(window).height();
     let imgArr = document.querySelectorAll('.fancybox');
